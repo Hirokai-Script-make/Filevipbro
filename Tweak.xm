@@ -12,7 +12,7 @@
         UIViewController *rootVC = [UIApplication sharedApplication].keyWindow.rootViewController;
 
         UIAlertController *alert = [UIAlertController alertControllerWithTitle:@"Kai Roblox"
-                                                                       message:@"Thanks for using Kai's tweak!"
+                                                                       message:"đăng kí kênh tui đi nười đẹp"
                                                                 preferredStyle:UIAlertControllerStyleAlert];
 
         // Nút YouTube
